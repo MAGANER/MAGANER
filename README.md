@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @MAGANER
 - 👀 I’m interested in roguelike games, lisp-like languages and anything complex.
-- 🌱 I’m currently learning Rust to use it instead of c++.
+- 🌱 I’m currently looking for any good functional language to use it instead of c++, but still using c++.
 - 💞️ I’m looking to collaborate on roguelikes, interpreters.
 - 📫 How to reach me - send me a email to haskel.lisp@yandex.ru
 

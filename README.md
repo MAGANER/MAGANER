@@ -1,7 +1,5 @@
-- 👋 Hi, I’m @MAGANER
-- 👀 I’m interested in roguelike games, lisp-like languages and anything complex.
-- 🌱 I’m currently looking for any good functional language to use it instead of c++, but still using c++.
-- 💞️ I’m looking to collaborate on roguelikes, interpreters, CLI utilities, cryptography tools.
+- 👋 Hi, I’m @MAGANER, the  software craftsman and  the arch linux enthusiast
+- 👀 I’m interested in indie game development, CLI tools, automation and i like terminals(a lot)
 - 📫 How to reach me - send me a email to haskel.lisp@yandex.ru
 
 <!---
